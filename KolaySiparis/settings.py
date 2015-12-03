@@ -39,7 +39,10 @@ INSTALLED_APPS = (
     'django.contrib.staticfiles',
     'KolaySiparisApp',
 
-        
+
+
+
+        'addded on Alican branch'
 )
 
 MIDDLEWARE_CLASSES = (
