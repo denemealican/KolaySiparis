@@ -40,6 +40,7 @@ INSTALLED_APPS = (
     'KolaySiparisApp',
 
 'come one amas'
+'yilmazalicanda degisti bu'
 
 
 
