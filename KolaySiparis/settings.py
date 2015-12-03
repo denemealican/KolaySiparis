@@ -43,7 +43,6 @@ INSTALLED_APPS = (
 
 
 
-        'addded on Alican branch'
 
 )
 
