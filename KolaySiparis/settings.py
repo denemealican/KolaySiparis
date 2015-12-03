@@ -43,7 +43,7 @@ INSTALLED_APPS = (
 
 
 
-        'addded on Alican branch'
+        'added another on master'
 
 )
 
