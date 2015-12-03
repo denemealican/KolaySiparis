@@ -38,7 +38,9 @@ INSTALLED_APPS = (
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'KolaySiparisApp',
-    
+
+    'added something'
+
 )
 
 MIDDLEWARE_CLASSES = (
