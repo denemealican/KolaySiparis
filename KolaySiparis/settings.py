@@ -39,8 +39,7 @@ INSTALLED_APPS = (
     'django.contrib.staticfiles',
     'KolaySiparisApp',
 
-'come one amas'
-'tekrar yilmazalicanda degisti bu'
+'yilmazAlicanda degistirdim'
 
 
 
