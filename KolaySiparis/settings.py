@@ -43,6 +43,7 @@ INSTALLED_APPS = (
 'denemealicanda degistirdim'
 abi branch
 'yenibranch'
+'yenib'
 
 
 
