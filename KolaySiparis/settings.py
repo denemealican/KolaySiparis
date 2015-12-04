@@ -41,6 +41,7 @@ INSTALLED_APPS = (
 
 'yilmazAlicanda degistirdim'
 'denemealicanda degistirdim'
+'osmanda deneme de degistirdim'
 abi branch
 
 
